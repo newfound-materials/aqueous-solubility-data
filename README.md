@@ -21,7 +21,7 @@ Data adapted from the raw data sources below.
 
 ## Raw Data
 
-### solubilities_raw.csv
+### solubilities.csv
 
 solubility.csv contains the following columns:
 
@@ -35,7 +35,7 @@ solubility.csv contains the following columns:
 *Data adapted from CRC Handbook of Chemistry and Physics, 91th Edition, 2010, 8-112
 through 8-117*.
 
-### solubility_products_raw.csv
+### solubility_products.csv
 
 This is a dataset of solubility products ($K_{sp}$) for various inorganic compounds. The
 solubility products of sulfides are excluded It contains the following columns:
