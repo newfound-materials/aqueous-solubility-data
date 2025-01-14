@@ -3,8 +3,10 @@
 Experimental aqueous solubility data for several hundred inorganic compounds. Data has
 been adapted from various references and presented for use in materials informatics.
 
-**Disclaimer**: The data is provided as is and should be used for educational purposes
+```
+Disclaimer: The data is provided as is and should be used for educational purposes
 only. No guarantees are provided for the accuracy of the data.
+```
 
 ## Data
 
