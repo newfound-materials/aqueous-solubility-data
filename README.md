@@ -3,6 +3,8 @@
 Experimental aqueous solubility data for several hundred inorganic compounds. Data has
 been adapted from various references and presented for use in materials informatics.
 
+Note that all solubilities are presented in units of **grams of solute per 100g H2O**.
+
 ```
 Disclaimer: The data is provided as is and should be used for educational purposes
 only. No guarantees are provided for the accuracy of the data.
@@ -34,7 +36,8 @@ solubility.csv contains the following columns:
   *Composition.reduced_formula* method. For example, the reduced formula of "O6Fe4" is
   "Fe2O3".
 - `solubility_XXC`: The solubility of the compound in water at XX degrees Celsius, in
-  grams of solute per 100g H2O (i.e., 100 mL).
+  grams of solute per 100g H2O (i.e., 100 mL). Note that this has been converted from
+  the source data.
 
 *Data adapted from CRC Handbook of Chemistry and Physics, 91th Edition, 2010, 8-112
 through 8-117*.
