@@ -12,7 +12,7 @@ only. No guarantees are provided for the accuracy of the data.
 
 ## Data
 
-**Version 1.0**: Januaary 14, 2025.
+**Version 1.0**: January 14, 2025.
 
 ### all_solubilities_v1.csv
 
