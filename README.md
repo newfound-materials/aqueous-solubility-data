@@ -1,6 +1,6 @@
 # aqueous-solubility-data
 
-Experimental aqueous solubility data for several hundred inorganic compounds. ata has
+Experimental aqueous solubility data for several hundred inorganic compounds. Data has
 been adapted from various references and presented for use in materials informatics.
 
 **Disclaimer**: The data is provided as is and should be used for educational purposes
@@ -8,7 +8,9 @@ only. No guarantees are provided for the accuracy of the data.
 
 ## Data
 
-### all_solubilities.csv
+**Version 1.0**: Januaary 14, 2025.
+
+### all_solubilities_v1.csv
 
 This is a combined dataset of all the solubility data. It contains the following columns:
 
